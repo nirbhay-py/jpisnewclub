@@ -1,10 +1,27 @@
 *{
 	font-family: 'Castoro', serif;
 }
+.sub{
+	font-style: italic;
+}
+.founder-team-head{
+	font-size: 35px;
+}
+.intro{
+	font-weight: 700;
+	font-size: 30px;
+	list-style: none;
+}
 .founder{
 	height: 300px;
 	width: 300px;
+	border-radius: 50%;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 body{
 	padding:30px
+}
+.scam{
+	font-size: 28px;
 }
